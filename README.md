@@ -1,1 +1,1 @@
-# Expanding-Cards
+# A step progress bar is a graphical element that shows how much work has been completed and how many steps are left to complete a task. They are often used in forms, quizzes, and other applications where users need to complete a series of steps to reach a goal
